@@ -24,10 +24,11 @@
   "homepage": "https://github.com/mehran-njz/serious-javascript-dev#readme",
   "dependencies": {
     "fastify": "^3.0.0",
-    "fastify-plugin": "^3.0.0",
     "fastify-autoload": "^3.3.1",
+    "fastify-cli": "^2.13.0",
+    "fastify-plugin": "^3.0.0",
     "fastify-sensible": "^3.1.0",
-    "fastify-cli": "^2.13.0"
+    "sqlite3": "^5.0.2"
   },
   "devDependencies": {
     "tap": "^15.0.9"
